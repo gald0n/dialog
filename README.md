@@ -3,15 +3,15 @@ The &lt;dialog> tag in HTML is a native way to create modal windows or pop-up di
 
 # Key features
 
-'<dialog>' creates a built-in popup box that can display content like text, buttons, or forms.
+<dialog> creates a built-in popup box that can display content like text, buttons, or forms.
 
-'.showModal()' displays the dialog centered on the screen and disables interaction with the rest of the page.
+.showModal() displays the dialog centered on the screen and disables interaction with the rest of the page.
 
-'.close()' hides the dialog.
+.close() hides the dialog.
 
 It’s accessible and can be customized easily with CSS.
 
-You can also use '.show()' (instead of '.showModal()') if you want a non-blocking dialog.
+You can also use .show() (instead of .showModal()) if you want a non-blocking dialog.
 
 # Why it’s useful
 
